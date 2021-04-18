@@ -5,6 +5,6 @@ We provide R procedures and Windows simulation programs that allow for the asses
 
 - readme.pdf - provides an overview of the programs and a guide to their installation.
 - R_TI_V_1_0.zip - a zip archive of the R procedures
-- SIM_TI_V_1_0 - a zip archive of the Windows simulation program.
+- SIM_TI_V_1_0 - a zip archive of the Windows simulation programs.
 
 
